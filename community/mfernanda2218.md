@@ -1,4 +1,4 @@
-# READEME.md - Lab Open Source
+# README.md - Lab Open Source
 
 Bem-vindo(a) ao meu README! Sou uma pessoa apaixonada por tecnologia, desenvolvimento de software e aprendizado contínuo. Aqui você encontrará algumas das minhas habilidades e formação acadêmica!
 
